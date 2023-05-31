@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff6f61;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.account-info {
+  margin-bottom: 20px;
+}
+
+.staking-form {
+  margin-bottom: 20px;
+}
+
+.staking-form h2 {
+  color: #448aff;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.staking-form input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.staking-form button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #448aff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.staking-info p {
+  color: #448aff;
+  font-size: 18px;
+}
+
+.staking-info button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #448aff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
